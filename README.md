@@ -1,4 +1,4 @@
-# RFID-card-reader
+# RFID card reader
 ### Purpose
 The main goal of the project was to create a scanning card system for prisons and dive into embedded topics based on ESP8266 microcontroller.
 ### Description
