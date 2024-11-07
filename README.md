@@ -15,8 +15,8 @@ The ESP8266 microcontroller utilizes an external RFID module to read appropriate
 - OLED Display 128x32
 - battery backup power including: LDO, TP-4056
 - Li-Pol battery
-- reed switch
 - LED diodes
+- reed switch
 - switch buttons
 - resistors, capacitors, wires, fuse
 
